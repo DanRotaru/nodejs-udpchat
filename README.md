@@ -24,5 +24,5 @@ node server
 
 ### We are connecting a client
 ```javascript
-client node
+node client
 ```
